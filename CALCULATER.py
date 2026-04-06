@@ -1,5 +1,5 @@
 print()
-print("-"*120)
+print("-"*121)
 print("                                              WELCOME TO CALC WORLD")
 print("*"*120)
 for i in range(1,500):
